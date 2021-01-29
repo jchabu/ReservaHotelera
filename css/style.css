@@ -1,0 +1,31 @@
+section > div[class=row] {
+    background-color: orange;
+    height: 100px;
+    margin-top: 100px;
+    width: 65%;
+    margin-left: 300px;
+    justify-content: center;
+}
+div[class=col-md-2]{
+    margin: 10px;
+}
+input[id=search]{
+    width: auto;
+    height: 70px;
+    width: 100%;
+    background-color: orangered;
+}
+body{
+    background-image: url("../img/backgr.jpg");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.room {
+
+    border-bottom: 2px solid black;
+}
+.botones button{
+    background-color: orange;
+    margin-bottom: 2px;
+}
